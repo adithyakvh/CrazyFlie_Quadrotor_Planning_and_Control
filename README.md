@@ -22,7 +22,7 @@ The project consists of the following modules:
 - OpenCV
 - NumPy
 
-<img src="./Pictures/crazyflie.gif">
+<img src="./Pictures/Crazyflie.gif">
 
 # Results
 
